@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
-
+<h2><a href="https://drive.google.com/drive/folders/1xTGsRupDhRQ0uTRdin0Pcj1_72sTAaqc?usp=drive_link" target="_blank"> Link zum Installation Video (Google Drive) </a></h2>
 <h1>osTicket - Voraussetzungen und Installation</h1>
 Dieses Tutorial beschreibt die Voraussetzungen und die Installation des Open-Source-Helpdesk-Ticketsystems osTicket..<br />
 
@@ -23,4 +23,4 @@ Dieses Tutorial beschreibt die Voraussetzungen und die Installation des Open-Sou
 - PHP Manager for IIS
 - Rewrite
 - VC_Redist
-<h2><a href="https://drive.google.com/drive/folders/1xTGsRupDhRQ0uTRdin0Pcj1_72sTAaqc?usp=drive_link" target="_blank"> Link zum Installation Video (Google Drive) </a></h2>
+
